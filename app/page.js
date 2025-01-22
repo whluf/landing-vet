@@ -16,12 +16,12 @@ export default function Home() {
           name="description"
           content="PetVetCare: Sistema integral para la gestión de clínicas veterinarias"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/logo.jpeg" />
       </Head>
 
       <Header />
 
-      <main className="flex-grow">
+      <main className="flex-grow ">
         <Hero />
         <Benefits />
         <Services />

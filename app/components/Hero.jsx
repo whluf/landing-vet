@@ -39,8 +39,8 @@ export default function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
           }`}
         >
-          Revoluciona la gestión de tu clínica veterinaria con un sistema
-          integral diseñado para el cuidado moderno de mascotas
+          Revoluciona la gestión de tu veterinaria con un sistema clínico y de
+          gestión integral.
         </p>
         <a
           href="https://wa.me/59899693669?text=¡Hola!%20Quiero%20más%20información%20sobre%20PetVetCare"
